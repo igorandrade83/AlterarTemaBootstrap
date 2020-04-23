@@ -1,0 +1,18 @@
+
+/* Apresenta problemas somente no Editor de view do Cronapp */
+
+@import URL("/plugins/cronapp-lib-js/dist/js/kendo-ui/styles/kendo.common-bootstrap.min.css");
+@import URL("/plugins/cronapp-lib-js/dist/js/kendo-ui/styles/kendo.bootstrap.min.css");
+@import URL("/plugins/cronapp-lib-js/dist/js/kendo-ui/styles/kendo.bootstrap.mobile.min.css");
+@import URL("/css/solar/solar-theme.min.css");
+@import URL("/plugins/cronapp-framework-js/css/themes/custom/navigator/custom-navigator.css");
+@import URL("/plugins/cronapp-framework-js/css/cronos.css");
+
+/*
+@import '../plugins/cronapp-lib-js/dist/js/kendo-ui/styles/kendo.common-bootstrap.min.css';
+@import '../plugins/cronapp-lib-js/dist/js/kendo-ui/styles/kendo.bootstrap.min.css';
+@import '../plugins/cronapp-lib-js/dist/js/kendo-ui/styles/kendo.bootstrap.mobile.min.css';
+@import '../css/solar/solar-theme.min.css';
+@import '../plugins/cronapp-framework-js/css/themes/custom/navigator/custom-navigator.css';
+@import '../plugins/cronapp-framework-js/css/cronos.css';
+*/
